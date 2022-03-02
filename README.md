@@ -17,7 +17,7 @@ aa 695,
 ao 1022,
 dcl 757, 
 iy 1163, 
-sh 872, 
+sh 872.
 
 From each speech frame, a log-periodogram was computed, which is one of several
 widely used methods for casting speech data in a form suitable for speech recognition.
