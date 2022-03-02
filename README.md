@@ -1,6 +1,6 @@
 # Phonemes Classification
 
-## 1. DataSet 
+## DataSet 
 
 The data were extracted from the TIMIT database (TIMIT Acoustic-Phonetic Conti-
 nuous Speech Corpus, NTIS, US Dept of Commerce) which is a widely used resource for
@@ -13,11 +13,11 @@ phoneme from each speaker. Each speech frame is represented by 512 samples at a 
 sampling rate, and each frame represents one of the above five phonemes. The breakdown
 of the 4509 speech frames into phoneme frequencies is as follows :
 
-aa 695
-ao 1022
-dcl 757
-iy 1163
-sh 872
+aa 695,
+ao 1022,
+dcl 757, 
+iy 1163, 
+sh 872, 
 
 From each speech frame, a log-periodogram was computed, which is one of several
 widely used methods for casting speech data in a form suitable for speech recognition.
